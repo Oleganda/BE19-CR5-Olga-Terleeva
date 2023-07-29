@@ -82,7 +82,7 @@ if (isset($_POST["login"])) {
                             <p style="color: hsl(217, 10%, 50.8%)">
                                 Find best friend for yourself
                                 <br>
-                                Sign Up for free or if
+                                Sign Up for free. If
                                 your already have an account Log In and adopt a pet.
                                 <br>
                                 More than 100 people have found already new pet on "Take me Home" website.
