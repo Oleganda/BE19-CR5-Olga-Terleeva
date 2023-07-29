@@ -1,0 +1,50 @@
+* {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.image {
+    transition: transform .2s;
+    margin: 0 auto;
+
+}
+
+.image:hover {
+    transform: scale(1.50);
+    cursor: pointer;
+
+
+}
+
+.title {
+    margin: 20px;
+    text-align: center;
+    z-index: 10;
+}
+
+.dog_photo {
+    margin-top: 80px;
+
+}
+
+.img-dog-regester {
+    height: 820px;
+
+}
+
+.color img {
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    -webkit-transition: all 1s ease;
+}
+
+.color img:hover {
+    filter: grayscale(0%);
+    filter: gray;
+    -webkit-filter: grayscale(0%);
+    filter: none;
+    transition: 1s ease;
+}
+
+.dog {
+    height: 400px;
+}
